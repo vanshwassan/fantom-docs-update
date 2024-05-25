@@ -16,7 +16,7 @@ Due to being composed of first-party data feeds, dAPIs offer security, transpare
 
 Apart from relying on deviation threshold and heartbeat configuration updates, unlike traditional data feeds, [OEV Network](https://docs.api3.org/explore/introduction/oracle-extractable-value.html) enables dApps using dAPIs to auction off the right to update the data feeds to searcher bots. Searcher bots can bid for price updates through the OEV Network to update the data feeds. All the OEV proceeds go back to the dApp.
 
-The [API3 Market](https://market.api3.org/dapis) enables users to connect to a dAPI and access the associated data feed services.
+The [API3 Market](https://market.api3.org/) enables users to connect to a dAPI and access the associated data feed services.
 
 ![img](src/dapi-main.png)
 
@@ -112,6 +112,7 @@ You can read more about dAPIs [here](https://docs.api3.org/guides/dapis/subscrib
 
 Here are some additional developer resources
 
+- [API3 Market](https://market.api3.org/fantom)
 - [API3 Docs](https://docs.api3.org/)
 - [dAPI Docs](https://docs.api3.org/guides/dapis/)
 - [QRNG Docs](https://docs.api3.org/guides/qrng/)
