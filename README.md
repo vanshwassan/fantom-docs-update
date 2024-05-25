@@ -28,7 +28,7 @@ The [API3 Market](https://market.api3.org/fantom) lets users access dAPIs on bot
 
 #### Exploring, selecting and configuring your dAPI
 
-The [API3 Market](https://market.api3.org/fantom) provides a list of all the dAPIs available across multiple chains including testnets. You can filter the list by mainnet or testnet chains. After selecting the chain, you can now search for a specific dAPI by name. Once selected, you will land on the details page (eg ETH/USD on Ethereum Sepolia) where you can find more information about the dAPI. 
+The [API3 Market](https://market.api3.org/fantom) provides a list of all the dAPIs available across multiple chains including testnets. You can filter the list by mainnet or testnet chains. After selecting the chain, you can now search for a specific dAPI by name. Once selected, you will land on the details page (eg ETH/USD on Fantom Testnet) where you can find more information about the dAPI. 
 
 The current supported configurations for dAPIs are:
 
