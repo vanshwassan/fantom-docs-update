@@ -24,7 +24,7 @@ The [API3 Market](https://market.api3.org/) enables users to connect to a dAPI a
 
 ### Subscribing to dAPIs
 
-The [API3 Market](https://market.api3.org/fantom) lets users access dAPIs on both Fantom Mainnet and Testnet.
+The [API3 Market](https://market.api3.org/fantom) lets users access dAPIs on both [Fantom Mainnet](https://market.api3.org/fantom) and [Testnet](https://market.api3.org/fantom-testnet).
 
 #### Exploring, selecting and configuring your dAPI
 
